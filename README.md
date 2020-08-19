@@ -7,7 +7,7 @@ It is very important for banks to classify its customers into groups to ensure p
 Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses. Unlike supervised learning, it does not gives any kind of output rather is needed to answer simple questions on inferences and conclusions.
 
 ### on what basis people are grouped?
-![image.png](attachment:image.png)
+![image.png](attachment:https://github.com/ashwinjain10320/bank_customer_segmentation/blob/master/image.png)
 
 ### how do i achieved the task?
  workflow of project : 
@@ -33,4 +33,4 @@ afterwards we plot graph between k and number of clusters and take the elbow par
 ##### now we apply KMeans method to find centroid for all features
 ##### finally we search for cluster that are being needed as per our requirement 
 ##### last but not the least we make use of PCA(Principal component Analysis) that performs dimensionality reductions while keeping unchanged original information and we form a scatterplot that looks like this.
-![result.png](attachment:result.png)
+![result.png](attachment:https://github.com/ashwinjain10320/bank_customer_segmentation/blob/master/result.png)
